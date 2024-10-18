@@ -30,10 +30,3 @@ Leap Year Handling: Approximates leap years using 365.25 days in a year.
 
 
 
-How to Run:
-
-Clone the repository.
-
-Pass the year, month, and day of birth to the ageCalculator function.
-
-The program will print the calculated age.
